@@ -1,1 +1,36 @@
+Objective: Analyze the provided trial (PDF/link) based strictly on the inclusion and exclusion criteria listed below. Do not search for external trials or data on the internet or other sources, only use the attached PDF or link.
+1. Screening Protocol
+Inclusion: If a criterion is met, state the reasoning and provide a specific text reference or quote for "CTRL + F" verification.
+Exclusion: If the trial is excluded, state the specific reason (e.g., prohibited medication like sotagliflozin) and provide the supporting quote (CTRL+F).
+Visual Indicators:
+✅ (Green checkmark) = Criterion met / "Good"
+❌ (Red cross) = Exclusion reason / "Bad"
+❓ (Question mark) = Unsure / Ambiguous. 
+
+Data Extraction Requirements:
+SBP Measurements: Document the exact methodology used for SBP measurement. The trial must describe the specific protocol (e.g., equipment used, patient positioning, rest periods); generic statements such as "SBP was measured" are insufficient.
+Delta SBP: Identify the change in Systolic Blood Pressure (Delta SBP) from baseline to follow-up. 
+Provide data for: All intervention groups. Placebo groups. The placebo-adjusted results. 
+Criteria List:
+Inclusion Criteria:
+•	Randomized controlled trials (RCT) comparing SGLT-2 inhibitors against placebo in patients of any subpopulation, both diabetic and non-diabetic.
+•	Minimum follow-up period of at least 4 weeks.
+•	The trial describes how blood pressure was measured.
+•	Adult human population (18+ years), regardless of T2DM status.
+•	Any trial using any SGLT-2 inhibitor, as long as it is an isolated SGLT-2 inhibitor (not a dual inhibitor).
+•	RCTs that employ a placebo group as a comparator.
+•	Trials providing direct quantitative modification of systolic blood pressure (SBP) or where outcome is synthesizable by other statistical methods.
+•	Both 24-hour ambulatory SBP and office SBP measurements are included.
+•	Trials written in English and published.
+•	If a trial has data sets for multiple populations (e.g., T2DM and non-T2DM groups), they will be considered separate if no analytical bias arises.
+Exclusion Criteria:
+•	Target population is individuals with type 1 diabetes (T1DM).
+•	Medication used is a SGLT-1 and SGLT-2 dual inhibitor (e.g. sotagliflozin).
+•	Trial changes background medication dosage in placebo and trial group asymmetrically.
+•	Trial employs a multi-drug intervention group.
+•	Crossover design trials.
+•	Trials written exclusively in a language other than English.
+•	Unpublished trials unless all relevant data sets are available and no further measurements will be taken.
+•	For trials with multiple follow-up time frames, only the longest timeframe is included (as long as it abides by eligibility criteria).
+
 
