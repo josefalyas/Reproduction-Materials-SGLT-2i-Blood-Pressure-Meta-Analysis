@@ -1,0 +1,41 @@
+Objective: Complete the data extraction for the linked trial (Link or PDF) using the "PILOT FORM" word-document, adhering strictly to the provided inclusion/exclusion criteria. Do not search the internet. Use a table format for the pilot form.
+1. Data Extraction & Documentation
+PILOT FORM: Populate every section and data item using only the linked trial.
+In-line Citations: Provide a specific quote or text snippet for every data entry to facilitate "CTRL + F" verification.
+Temporal Relevance: Only extract data for follow-up time points that comply with the specified inclusion criteria. (e.g., if Week 12 is compliant but Week 24 is not, extract only Week 12 data)
+Exclusion: Do not complete the RoB2 (Risk of Bias 2) Assessment; skip this section entirely. A human will complete this section.
+2. Citation Searching
+Review the trial’s reference list for potentially relevant studies.Identify any study that appears to meet the inclusion criteria.
+Output: List the reference number as it appears in the trial's bibliography (e.g., "Reference [14] - Zhang et al.").
+3. Eligibility Verification
+Provide a summary table verifying the trial's adherence to the inclusion/exclusion list, using the following format for a table:
+1) Criterion: [Name of Criterion].
+2) Status: (Use emojies; Green checkmark ✅if inclusion is met, red cross ❌if exclusion reason is met)
+3) Reasoning: "Follows criteria" OR [Specific reason for non-compliance]
+4. Source Material & Criteria
+Pilot Form: [ATTACHED: "PILOT FORM.docx"]
+Trial to Analyze: [ATTACHED PDF OR LINK]
+
+Criteria list:
+Inclusion Criteria:
+•	Randomized controlled trials (RCT) comparing SGLT-2 inhibitors against placebo in patients of any subpopulation, both diabetic and non-diabetic.
+•	Minimum follow-up period of at least 4 weeks.
+•	The trial describes how blood pressure was measured.
+•	Adult human population (18+ years), regardless of T2DM status.
+•	Any trial using any SGLT-2 inhibitor, as long as it is an isolated SGLT-2 inhibitor (not a dual inhibitor).
+•	RCTs that employ a placebo group as a comparator.
+•	Trials providing direct quantitative modification of systolic blood pressure (SBP) or where outcome is synthesizable by other statistical methods.
+•	Both 24-hour ambulatory SBP and office SBP measurements are included.
+•	Trials written in English and published.
+•	If a trial has data sets for multiple populations (e.g., T2DM and non-T2DM groups), they will be considered separate if no analytical bias arises.
+Exclusion Criteria:
+•	Target population is individuals with type 1 diabetes (T1DM).
+•	Medication used is a SGLT-1 and SGLT-2 dual inhibitor (e.g. sotagliflozin).
+•	Trial changes background medication dosage in placebo and trial group asymmetrically.
+•	Trial employs a multi-drug intervention group.
+•	Crossover design trials.
+•	Follow-up loss is over 20%.
+•	Trials written exclusively in a language other than English.
+•	Unpublished trials unless all relevant data sets are available and no further measurements will be taken.
+•	For trials with multiple follow-up time frames, only the longest timeframe is included (as long as it abides by eligibility criteria).
+
