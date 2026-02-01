@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or data extraction pilot form, please cite it as below."
+authors:
+  - family-names: "Alyas"
+    given-names: "Josef Toma"
+    affiliation: "Department of Biomedicine, Aarhus University"
+    email: "joseftomaalyas@gmail.com"
+  - family-names: "Nielsen"
+    given-names: "Steffen Flindt"
+    affiliation: "Department of Renal Medicine, Aarhus University Hospital"
+  - family-names: "Buus"
+    given-names: "Niels Henrik"
+    affiliation: "Department of Biomedicine, Aarhus University; Department of Renal Medicine, Aarhus University Hospital"
+title: "Reproduction Materials: Explaining Blood Pressure Reduction Heterogeneity in SGLT-2 Inhibitor Trials"
+version: 1.0.0
+date-released: 2026-02-01
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18451106
+repository-code: "https://github.com/josefalyas/Reproduction-Materials-SGLT-2i-Blood-Pressure-Meta-Analysis"
+keywords:
+  - "SGLT-2 Inhibitors"
+  - "Meta-Analysis"
+  - "Blood Pressure"
+  - "R"
+  - "RoBMA"
+license: MIT
+type: software
