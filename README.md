@@ -31,8 +31,9 @@ To reproduce the analysis, you will need R Statistical Software (v4.5.1), RStudi
 
 ## 📝 For researchers: ##
 If you utilize the code or materials from this repository, please cite the original article:
+> Alyas, J. T., Nielsen, S. F., & Buus, N. H. (2026). Reproduction Materials for: "Explaining Blood Pressure Reduction Heterogeneity in SGLT-2 Inhibitor Trials: A Meta-Analysis Stratified by Patient Characteristics". Zenodo. https://doi.org/10.5281/zenodo.18451106
 
-TBD
+
 
 > [!NOTE]
 For correspondence regarding the data or code, please contact the corresponding author, Josef Toma Alyas at: [joseftomaalyas@gmail.com]
