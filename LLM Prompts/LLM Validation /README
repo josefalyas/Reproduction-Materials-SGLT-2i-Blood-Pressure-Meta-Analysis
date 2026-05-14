@@ -1,0 +1,19 @@
+This repository contains the raw data used for the retrospective validation of a Large Language Model (LLM)-hybrid screening process. The data is organized into three distinct phases corresponding to the systematic review pipeline:  
+Phase 1: Title and Abstract Screening (k= 10% of 1704) -> 170 trials
+Phase 2: Full-text Screening (k= 10% of 335) -> 34 trials  
+Phase 3: Final Inclusion (k=38) -> 38 trials 
+
+Structure and "Record Number" Logic
+The files provided are EndNote exports containing the specific study pools for each phase.
+Sorting Requirement: To replicate the study selection, the reader must sort the libraries by "Record Number" in EndNote.  
+ID Translation: The EndNote ID numbers used in the validation protocol (e.g., ID 5727) are based on the total cumulative sources imported into the primary investigator's EndNote application.  
+External Reproduction: If a reader imports these individual phase files into a new EndNote library, the record numbers will likely be reset (e.g., ID 5727 may become ID 1). 
+To compare specific results, the reader must "translate" the numbers based on the sorted order, assuming EndNote maintains record number consistency across the import/export of these specific subsets.  
+Keep in mind: For all duplicate references, the original is not included, to keep the randomization process unbiased. Covidence was used to find the originally assessed trial. 
+
+Files included in this repository are as follows:
+  1) "LLM Validation.pdf" -> The raw LLM Validation protocol and matrix-dataset with notes
+  2) "LLM Title and Abstract.enl" -> All randomly chosen references used from the Title and Abstract screening 
+  3) "LLM Full-text.enl" ->  All randomly chosen references used from the Full-text screening
+  4) "LLM Included trials.enl" ->  References for all included trials
+
