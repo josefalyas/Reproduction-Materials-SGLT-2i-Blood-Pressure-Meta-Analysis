@@ -36,4 +36,4 @@ If you utilize the code or materials from this repository, please cite the origi
 
 
 > [!NOTE]
-For correspondence regarding the data or code, please contact the corresponding author, Josef Toma Alyas at: [joseftomaalyas@gmail.com]
+For correspondence regarding the data or code, please contact the corresponding author, Josef Toma Alyas at: [josefalyas@post.au.dk]
